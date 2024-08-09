@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I am Humayun Jawad </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi, I am Danish Yaqoob </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3 align="center">An enthousiast Frontend Developer</h3>
+<h3 align="center">An enthousiast Frontend Web Developer</h3>
 
  
  <br/>
  
  <div align="center">
 
-🌱 I’m currently learning **Nodejs and MongoDB**
+🌱 I’m currently learning **Nodejs and React.js Integration**
 
-💬 Ask me about **React, Tailwind, Sockets, Animations**
+💬 Ask me about **React.js, Javascript, Bootstrap, Next.js, Shadcn/ui Tailwind, Sockets, Animations**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Development**, **Responsive Designs** and **Vanilla JS**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and Integration**
   
 </div>
  
