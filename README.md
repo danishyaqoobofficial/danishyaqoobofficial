@@ -24,9 +24,8 @@
 | Stack | Tools |
 |---|---|
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
-|**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
+|**Javascript**| React.js, Nest.js|
 |**API & Architectures**|REST, GraphQL|
-|**Backend**|Prisma, Supabase, Firebase|
 
  </div>
 <br/>
