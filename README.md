@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Nodejs and React.js Integration**
 
-💬 Ask me about **React.js, Javascript, Bootstrap, Next.js, Shadcn/ui Tailwind, Sockets, Animations**
+💬 Ask me about **React.js, Javascript, Bootstrap, Next.js, GSAP, Shadcn/ui Tailwind, Sockets, Animations**
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and Integration**
   
