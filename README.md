@@ -25,7 +25,7 @@
 |---|---|
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
 |**Javascript**| React.js, Nest.js|
-|**API & Architectures**|REST, GraphQL|
+|**API**|Fetch, Async Await|
 
  </div>
 <br/>
