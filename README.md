@@ -66,5 +66,5 @@
   📍 Based in Lahore, Pakistan  
   💼 Open to collaboration and exciting frontend roles  
   ✉️ Email: danishyaqoob117@gmail.com  
-  🔗 <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/danish-yaqoob-36a42a262/)" target="_blank">LinkedIn</a> | <a href="https://your-portfolio.com" target="_blank">Portfolio</a>
+  🔗 <a href="https://www.linkedin.com/in/danish-yaqoob-36a42a262/" target="_blank">LinkedIn</a> | <a href="https://your-portfolio.com" target="_blank">Portfolio</a>
 </p>
