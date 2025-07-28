@@ -59,12 +59,11 @@
 
 ---
 
-## 📌 Featured Projects
+<h3 align="center">📫 Let's Connect!</h3>
 
-> Add your top repositories here manually with short descriptions.  
-> You can replace the links with your own repos.
-
-```md
-🔹 [Product Dashboard App](https://github.com/your-username/product-dashboard) — Built with React + Tailwind, fully responsive admin dashboard.  
-🔹 [Food Order App](https://github.com/your-username/food-order-app) — React Native app for food delivery with real API integration.  
-🔹 [Portfolio Website](https://github.com/your-username/portfolio) — Personal portfolio built with Next.js and animations.
+<p align="center">
+  📍 Based in Lahore, Pakistan  
+  💼 Open to collaboration and exciting frontend roles  
+  ✉️ Email: your-email@example.com  
+  🔗 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a> | <a href="https://your-portfolio.com" target="_blank">Portfolio</a>
+</p>
