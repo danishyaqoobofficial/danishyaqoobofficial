@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Danish Yaqoob <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
-<h2 align="center">👨‍💻 Associate Software Engineer | Senior Frontend Developer | React & React Native Specialist</h2>
+<h2 align="center">👨‍💻 Associate Software Engineer | Senior Frontend Developer | React, Next & React Native Specialist</h2>
 
 <p align="center">
   🚀 Turning ideas into modern, responsive web and mobile applications with smooth UI and clean code.<br/>
@@ -15,7 +15,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
+##
 
 <table align="center">
   <tr>
@@ -43,6 +44,7 @@
 ---
 
 <h3 align="center">💻 Tools & Technologies</h3>
+##
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
