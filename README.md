@@ -1,79 +1,70 @@
-<h1 align="center">Hi, I'm Danish Yaqoob <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi, I'm Danish Yaqoob <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
 
 <h2 align="center">👨‍💻 Associate Software Engineer | Senior Frontend Developer | React & React Native Specialist</h2>
 
-<p align="center">Building sleek, responsive web & mobile applications with modern frontend technologies.</p>
+<p align="center">
+  🚀 Turning ideas into modern, responsive web and mobile applications with smooth UI and clean code.<br/>
+  🎯 Focused on React.js, Next.js, React Native, API Integration, and modern UI tools.<br/>
+</p>
 
 ---
 
-<div align="center">
-
-🚀 I specialize in **React.js**, **Next.js**, **React Native**, and seamless **API integrations** for both web and mobile apps.  
-🎯 Focused on performance, scalable architecture, animations, and mobile-first design.  
-📱 Skilled in building real-world applications — from dashboards to e-commerce and mobile UIs.  
-🛠 Passionate about clean code, UI/UX, and crafting pixel-perfect components.  
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danishyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="danishyaqoob" />
+</p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React.js • Next.js • React Native • JavaScript • TypeScript</td>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript, TypeScript, HTML5, CSS3, SCSS</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>React.js, Next.js, React Native, Redux</td>
   </tr>
   <tr>
     <td><strong>Styling</strong></td>
-    <td>Tailwind CSS • SCSS • Bootstrap • Material UI • Shadcn/UI • CSS3 • @keyframes</td>
+    <td>Tailwind CSS, Bootstrap, Material UI, Shadcn/UI, @keyframes</td>
   </tr>
   <tr>
     <td><strong>Integration</strong></td>
-    <td>REST APIs • Axios • Async/Await • Fetch API</td>
+    <td>REST APIs, Axios, Fetch, Async/Await</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td>VSCode • Git & GitHub • Figma • Postman • Chrome DevTools</td>
+    <td>Git, GitHub, VSCode, Figma, Postman, Chrome DevTools</td>
   </tr>
 </table>
 
-</div>
-
 ---
 
-<h3 align="center">📱 Web & App Projects</h3>
-
-<p align="center">
-I work on responsive websites, dashboards, UI systems, and mobile apps using React Native. My apps are built to perform smoothly across devices with optimized UI and real API connectivity.
-</p>
-
----
-
-<h3 align="center">📸 Tech I Work With</h3>
+## 💻 Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">📫 Let's Connect!</h3>
+## 📌 Featured Projects
 
-<p align="center">
-  📍 Based in Lahore, Pakistan  
-  💼 Open to collaboration and exciting frontend roles  
-  ✉️ Email: your-email@example.com  
-  🔗 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a> | <a href="https://your-portfolio.com" target="_blank">Portfolio</a>
-</p>
+> Add your top repositories here manually with short descriptions.  
+> You can replace the links with your own repos.
+
+```md
+🔹 [Product Dashboard App](https://github.com/your-username/product-dashboard) — Built with React + Tailwind, fully responsive admin dashboard.  
+🔹 [Food Order App](https://github.com/your-username/food-order-app) — React Native app for food delivery with real API integration.  
+🔹 [Portfolio Website](https://github.com/your-username/portfolio) — Personal portfolio built with Next.js and animations.
