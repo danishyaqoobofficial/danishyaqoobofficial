@@ -7,7 +7,7 @@
   🎯 Focused on React.js, Next.js, React Native, API Integration, and modern UI tools.<br/>
 </p>
 
----
+<!--  ---  -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danishyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="danishyaqoob" />
